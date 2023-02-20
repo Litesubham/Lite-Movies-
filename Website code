@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Lite Movies</title>
+    <style>
+      /* add your CSS styles here */
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Lite Movies</h1>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Movies</a></li>
+          <li><a href="#">TV Shows</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    
+    <main>
+      <h2>Welcome to Lite Movies</h2>
+      <p>We offer a wide selection of movies and TV shows for you to enjoy. Browse our collection and find your favorites!</p>
+      
+      <section>
+        <h3>Now Playing</h3>
+        <ul>
+          <li><a href="#">Movie 1</a></li>
+          <li><a href="#">Movie 2</a></li>
+          <li><a href="#">Movie 3</a></li>
+        </ul>
+      </section>
+      
+      <section>
+        <h3>Coming Soon</h3>
+        <ul>
+          <li><a href="#">Movie 4</a></li>
+          <li><a href="#">Movie 5</a></li>
+          <li><a href="#">Movie 6</a></li>
+        </ul>
+      </section>
+      
+      <section>
+        <h3>Top Rated</h3>
+        <ul>
+          <li><a href="#">Movie 7</a></li>
+          <li><a href="#">Movie 8</a></li>
+          <li><a href="#">Movie 9</a></li>
+        </ul>
+      </section>
+    </main>
+    
+    <footer>
+      <p>&copy; 2023 Lite Movies</p>
+    </footer>
+  </body>
+</html>
